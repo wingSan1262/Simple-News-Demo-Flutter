@@ -1,6 +1,6 @@
 # news_app_demo_flutter
+![WhatsAppVideo2024-10-03at18 56 14-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6289ec65-38c2-4c9c-88d3-926eca678bf6)
 
-A new Flutter project.
 
 ## Getting Started
 
